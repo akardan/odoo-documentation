@@ -72,8 +72,14 @@ You can define a specific e-invoicing format for each customer. To do so, go to
 .. image:: electronic_invoicing/customer-form.png
    :alt: Select an EDI format for a specific customer
 
-Peppol formats
---------------
+Peppol
+-------
+Through the certification of  Odoo as a PEPPOL access point, the necessary steps are required to
+ensure its proper functioning.
+:ref:`Install <general/install>` the `account_peppol` module
+
+.. image:: electronic_invoicing/peppol-module.png
+   :alt: Peppol module install
 
 Use the fields :guilabel:`Peppol e-address (EAS)` and :guilabel:`Peppol Endpoint` to identify the
 recipient in the Peppol Network.
