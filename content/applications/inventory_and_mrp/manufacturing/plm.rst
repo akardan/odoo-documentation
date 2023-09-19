@@ -1,7 +1,7 @@
 :nosearch:
 
 ============================
-Product Lifecycle Management
+Product lifecycle management
 ============================
 
 Odoo *Product Lifecycle Management* (*PLM*) offers a systematic approach for testing, collaboration,

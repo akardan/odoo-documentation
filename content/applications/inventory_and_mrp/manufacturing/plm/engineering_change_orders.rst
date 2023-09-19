@@ -9,10 +9,10 @@ Engineering change orders
 
 .. _plm/eco:
 
-Utilize *Engineering Change Orders* (*ECOs*) to track and implement changes to products, and
+Utilize *engineering change orders* (*ECOs*) to track, implement, and revert change versions made to products, and
 :ref:`bills of materials <manufacturing/management/bill-configuration>`.
 
-View and create :abbr:`ECOs (engineering change orders)` within each *ECO type*, a project pipeline
+View and create |ECOs| within each *ECO type*, a project pipeline
 in Gantt view with stages, ensuring progress tracking for collaborators and stakeholders.
 
 Engineering change orders can be created:
@@ -23,8 +23,8 @@ Engineering change orders can be created:
 
 .. _plm/eco/create-eco:
 
-Create new ECO
-==============
+Create ECO
+==========
 
 To create a new |ECO|, begin by navigating to the :menuselection:`PLM app`, and select the ECO type
 card that will be used to track the progress of the change. On the :guilabel:`Engineering Change
